@@ -1,2 +1,1 @@
-# Recurrent processing necessary for figure-ground segmentation: converging evidence from behavior, EEG and deep neural networks
-
+### On the necessity of recurrent processing during object recognition: it depends on the need for scene segmentation 
