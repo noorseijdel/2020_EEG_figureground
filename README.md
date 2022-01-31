@@ -1,3 +1,2 @@
-### On the necessity of recurrent processing during object recognition: it depends on the need for scene segmentation 
+### Using RIFT to study the role of lower frequency oscillations in sensory processing and audiovisual integration
 
-Code (and data) for Seijdel N*, Loke J*, van de Klundert R, van der Meer M, Quispel E, van Gaal S, de Haan EHF, & Scholte HS. (2021). *Journal of Neuroscience*.  
